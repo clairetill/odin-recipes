@@ -1,15 +1,15 @@
 ul {
-color: sienna
+color: sienna;
 }
 
 h1,h2,h3 {
     margin: 5px;
-    color:sienna
+    color:sienna;
 }
 
 h4 {
     margin: 5px;
-    color:maroon
+    color:maroon;
 }
 
 img {
@@ -23,13 +23,13 @@ p {
 }
 
 a:link {
-    color: black
+    color: black;
   }
 
 a:visited {
-    color: blue
+    color: navy;
 }
 
 a:hover {
-    color: sienna
+    color: sienna;
   }
