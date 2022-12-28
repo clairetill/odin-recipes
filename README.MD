@@ -1,1 +1,1 @@
-Create a recipe page to showcase basic HTML and CSS.
+A recipe page to showcase basic HTML and CSS.
