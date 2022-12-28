@@ -2,7 +2,13 @@ ul {
 color: sienna;
 }
 
-h1,h2,h3 {
+h1 {
+    margin: 5px;
+    color:sienna;
+    font-family: papyrus, ariel;
+}
+
+h2,h3 {
     margin: 5px;
     color:sienna;
 }
